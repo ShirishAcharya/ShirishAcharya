@@ -62,7 +62,7 @@
 - **High-performance REST & async APIs** with FastAPI (production-grade, well-documented, testable)
 - **End-to-end AI/ML solutions** — from model training (PyTorch/TensorFlow) to deployment
 - Scalable web backends with Django + PostgreSQL
-- Full-stack applications combining modern frontend (React + Tailwind) with robust backends
+- Full-stack applications combining modern frontend (Next + Tailwind) with robust backends
 
 
 ### 🌟 Let's Connect
