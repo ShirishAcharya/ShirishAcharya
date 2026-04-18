@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║          SHIRISH ACHARYA                             ║
-║          Backend Engineer · AI/ML Developer          ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+        ╔══════════════════════════════════════════════════════╗
+        ║                                                      ║
+        ║                   SHIRISH ACHARYA                    ║
+        ║          Backend Engineer · AI/ML Developer          ║
+        ║                                                      ║
+        ╚══════════════════════════════════════════════════════╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Backend+Engineer+%F0%9F%9A%80;AI%2FML+Developer+%F0%9F%A4%96;FastAPI+Specialist+%E2%9A%A1;Building+things+that+scale+%F0%9F%8C%9F" alt="Typing SVG" />
@@ -18,7 +18,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-ShirishAcharya-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/ShirishAcharya)
 [![Email](https://img.shields.io/badge/Email-shirishachrya@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shirishachrya@gmail.com)
 
-🌍 **Kathmandu, Nepal** &nbsp;|&nbsp; 🕐 Open to Remote Opportunities
+**Kathmandu, Nepal** &nbsp;|&nbsp; Open to Remote Opportunities
 
 </div>
 
@@ -41,17 +41,18 @@ class ShirishAcharya:
 
 ## `> tech_stack --list`
 
-### ⚡ Backend & APIs
+###  Backend & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -67,16 +68,16 @@ class ShirishAcharya:
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│  ⚡  High-Performance REST & Async APIs                     │
+│   High-Performance REST & Async APIs                        │
 │      FastAPI · Production-grade · Well-documented           │
 │                                                             │
-│  🤖  End-to-End AI/ML Solutions                             │
+│  End-to-End AI/ML Solutions                                 │
 │      From training (PyTorch/TF) → to deployment             │
 │                                                             │
-│  🗄️  Scalable Web Backends                                  │
+│  Scalable Web Backends                                      │
 │      Django + PostgreSQL · Clean architecture               │
 │                                                             │
-│  🌐  Full-Stack Applications                                │
+│  Full-Stack Applications                                    │
 │      Next.js + Tailwind → robust backend                    │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
