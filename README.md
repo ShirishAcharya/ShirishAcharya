@@ -32,7 +32,7 @@ class ShirishAcharya:
     location   = "Kathmandu, Nepal 🇳🇵"
     focus      = ["Scalable APIs", "AI/ML Systems", "Full-Stack Apps"]
     currently  = "Building production-grade AI-powered backends"
-    open_to    = ["Backend Engineering", "AI/ML Roles", "Full-Stack"]
+    open_to    = ["Backend Engineering", "AI/ML Roles", "Full-Stack", "Data Analyst"]
 ```
 
 > I design and build **scalable, production-ready backend systems** and **AI-powered applications** that solve real-world problems — from raw model training to live deployment.
