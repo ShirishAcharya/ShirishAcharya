@@ -35,7 +35,7 @@ class ShirishAcharya:
     open_to    = ["Backend Engineering", "AI/ML Roles", "Full-Stack", "Data Analyst"]
 ```
 
-> I design and build **scalable, production-ready backend systems** and **AI-powered applications** that solve real-world problems — from raw model training to live deployment.
+> I design and build **scalable, production-ready backend systems** and **AI-powered applications** that solve real-world problems, from raw model training to live deployment.
 
 ---
 
@@ -119,7 +119,5 @@ I'm always open to interesting opportunities in **backend engineering**, **AI/ML
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShirishAcharya.ShirishAcharya&color=00D9FF)
 
 <br/>
-
-*"First, solve the problem. Then, write the code."*
 
 </div>
